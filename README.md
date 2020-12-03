@@ -53,7 +53,9 @@ This code was tested on：
 | Model            | Top 5 Error | Top 1 Error | Download                                                                          |
 |:-----------------|:------------|:-----------:|:---------------------------------------------------------------------------------:|
 | ResNet50         | 6.9%       | 23.6%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50.npz)         |
-| ResNet50-TreeConv   | 6.16%       | 22.08%      | Baidu pan: [:arrow_down:](https://pan.baidu.com/s/1d47RCT-RrvlImbulAT9YXA) ; passport: lsmn |
+| ResNet50-TreeConv   | 6.16%       | 22.08%      | Baidu pan: [:arrow_down:](https://pan.baidu.com/s/1AssKorZJxQrexw6zlRFppw) ; passport: ijcb |
+
+
 
 
 + Testing script:
