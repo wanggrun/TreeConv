@@ -79,25 +79,19 @@ python imagenet-resnet.py  --gpu 0,1,2,3,4,5,6,7   --data [ROOT-OF-IMAGENET-DATA
 # Citation
 
 If you use these models in your research, please cite:
-
+```
 @inproceedings{Wang2020Grammatically_KDD,
-
   author    = {Guangrun Wang and
                Guangcong Wang and
                Keze Wang and
                Xiaodan Liang and
                Liang Lin},
-
   title     = {Grammatically Recognizing Images with Tree Convolution},
-
   booktitle = {{KDD} '20: The 26th {ACM} {SIGKDD} Conference on Knowledge Discovery
                and Data Mining, Virtual Event, CA, USA, August 23-27, 2020},
-
   pages     = {903--912},
-
   year      = {2020},
-
 }
       
-
+```
 
