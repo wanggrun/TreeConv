@@ -38,7 +38,7 @@ This code was tested on：
 +  Python 3.6.7
 + TensorFlow 1.15.0
 + [Tensorpack](https://github.com/ppwwyyxx/tensorpack)
-   The code depends on Yuxin Wu's Tensorpack. 
+   The code depends on Yuxin Wu's Tensorpack. The code was tested on tensorpack-0.9.8 where "0.9.8" denotes the tensorpack version.
    ```
    # install tensorpack local:
    cd tensorpack/tensorpack/
