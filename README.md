@@ -38,10 +38,10 @@ This code was tested on：
 +  Python 3.6.7
 + TensorFlow 1.15.0
 + [Tensorpack](https://github.com/ppwwyyxx/tensorpack)
-   The code depends on Yuxin Wu's Tensorpack. For convenience, we provide a stable version 'tensorpack-installed' in this repository. 
+   The code depends on Yuxin Wu's Tensorpack. 
    ```
-   # install tensorpack locally:
-   cd tensorpack-installed
+   # install tensorpack local:
+   cd tensorpack/tensorpack/
    python setup.py install --user
    ```
 
